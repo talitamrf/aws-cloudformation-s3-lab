@@ -78,6 +78,5 @@ A prática demonstrou como o AWS CloudFormation pode simplificar o provisionamen
 Ao criar um bucket S3 com versionamento utilizando um arquivo YAML, foi possível aplicar os conceitos de Infrastructure as Code e compreender melhor como a AWS permite automatizar e gerenciar sua infraestrutura.
 
 ---
-**Talita Maria Rodrigues Fernandes**
 
 Projeto desenvolvido durante o Bootcamp da DIO 🚀
